@@ -4,7 +4,7 @@
 Kalian ditantang untuk membuat desain ERD dari sebuah aplikasi web bernama Larahub. Berikut ini penjelasan tentang aplikasi tersebut
 
 ## Aplikasi Web LaraHub
-# Description: 
+### Description: 
 Sebuah web portal bagi para developer yang menggunakan Laravel untuk menyimpan profil pribadi, forum tanya jawab dan forum lowongan project/ kerja. Di dalam aplikasi tersebut, user dapat membuat dan memperbaharui profil pribadi. Selain itu user dapat bertanya jawab mengenai hal-hal seputar Laravel.
 
 Ketentuan Forum Tanya Jawab:
